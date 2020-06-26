@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "aed1514709346481691cb6386d5e8142"
+build_time: [1593194081, 502195000]
+inputs:
+  "/Users/764117/Desktop/Sample/Sampple/Sampple/ViewController.swift": [1593194076, 357457711]
+  "/Users/764117/Desktop/Sample/Sampple/Sampple/AppDelegate.swift": [1593194076, 346215090]
+  "/Users/764117/Desktop/Sample/Sampple/Sampple/SceneDelegate.swift": [1593194076, 355509504]

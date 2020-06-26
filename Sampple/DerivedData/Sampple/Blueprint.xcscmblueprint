@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D11FC30F7FA5D37ADE16706B4650BF2425BFD0BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D11FC30F7FA5D37ADE16706B4650BF2425BFD0BA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D830B62-79C9-40C9-AB7A-EB92B62FC16D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D11FC30F7FA5D37ADE16706B4650BF2425BFD0BA" : "Sample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sampple",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sampple\/Sampple.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/AzikAbdullah@github.com\/AzikAbdullah\/AzikGit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D11FC30F7FA5D37ADE16706B4650BF2425BFD0BA"
+    }
+  ]
+}
